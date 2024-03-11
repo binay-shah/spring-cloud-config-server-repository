@@ -16,5 +16,5 @@ elastic-config:
 
 user-config:
   username: test
-  password: $2a$12$l0zJ5sDWAaK.HxmyBY.ps.lxqCJZ7tqPLnjau0/jCE9V3ykG.J/f6
+  password: $2a$10$WXH2cpJSHmpHAyOLEpNtiO8OdCyUpcDq8f6vR9UfAzNGIZ1i.Aip
   roles: USER
