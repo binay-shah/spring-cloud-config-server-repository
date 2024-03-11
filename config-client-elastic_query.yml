@@ -16,8 +16,7 @@ elastic-config:
 
 user-config:
   username: test
-  password: 95da966630bf860f9a154f9b83b78d7f4d92c5da188fd7bbf2dcf1e15ef33c9a
+  password: 'cipher{95da966630bf860f9a154f9b83b78d7f4d92c5da188fd7bbf2dcf1e15ef33c9a}'
   roles: USER
 
-encrypt:
-  key: ${ENCRYPT_KEY}
+
