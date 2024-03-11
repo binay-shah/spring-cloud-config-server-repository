@@ -1,3 +1,5 @@
+elastic-query-service:
+  version: v1
 server:
   port: 8183
   servlet:
@@ -11,3 +13,8 @@ elastic-config:
   connect-timeout-ms: 5000
   socket-timeout-ms: 30000
   is-repository: true
+
+user-config:
+  username: test
+  password: 75f0411ab8fece4af4650e958f257920f3f49913103293eefe1591793c542f2f
+  roles: USER
